@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-## **What do you think being a data scientist is about?**
+## What do you think being a data scientist is about?
 
 Before the readings we were provided via this course, I would not have had an answer to this question. As touched on by Chapter 1 of The Practitioner’s Guide to Data Science, data scientists are described as having three main skill tracks being engineering, modeling, and modeling/inference. Engineering involves designing the infrastructure for the data to be housed, maintained, and processed. Analysis delves into exploring and conveying information about that data visually, given its context. Finally, modeling and inference, which essentially involve further analyzing the data to find trends, make predictions, etc. In the article Data Science vs Machine Learning vs Data Analytics we see a similar definition where the term data scientist seems all-encompassing, including data analysis and machine learning tools and techniques.
 
