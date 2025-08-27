@@ -10,7 +10,7 @@ Before the readings we were provided via this course, I would not have had an an
 
 ## What differences/similarities do you see between data scientists and statisticians?
 
-There is some room for debate about the distinction between a data scientist and a statistician. Data scientists regularly practice statistics, but they are not necessarily statisticians. I think the reverse holds. In other words, the terms statistician and data scientist are not synonymous, but there is overlap between people in these fields, as they do rely on a similar knowledge base. As the ASA Statement mentioned, with advancements in technology, the lines between the two have become blurred as statisticians have had to develop more skills in line with computational science to, as they stated, remain relevant. Some other similarities include how statisticians and data scientists can both offer advice with respect to data collection and analysis when working in interdisciplinary teams. Some differences include that data scientists often deal with larger amounts of unstructured data and are more involved in their respective production systems than statisticians. This was highlighted in Chapter 2 of The Practitioner’s Guide to Data Science.  
+There is some room for debate about the distinction between a data scientist and a statistician. Data scientists regularly practice statistics, but they are not necessarily statisticians. I think the reverse holds. In other words, the terms statistician and data scientist are not synonymous, but there is overlap between people in these fields, as they do rely on a similar knowledge base. As the ASA Statement mentioned, with advancements in technology, the lines between the two have become blurred as statisticians have had to develop more skills in line with computational science to, as they stated, remain relevant. Some other similarities include how statisticians and data scientists can both offer advice with respect to data collection and analysis when working in interdisciplinary teams. Some differences include that data scientists often deal with larger amounts of unstructured data and are more involved in their respective production systems than statisticians. This was highlighted in Chapter 2 of The Practitioner’s Guide to Data Science.
 
 ## How do you view yourself in relation to these two areas?
 
@@ -34,4 +34,3 @@ Plot of y:
 #| echo: false
 plot(y)
 ```
-
