@@ -1,0 +1,37 @@
+---
+title: "DataScience"
+format: html
+editor: visual
+---
+
+## **What do you think being a data scientist is about?**
+
+Before the readings we were provided via this course, I would not have had an answer to this question. As touched on by Chapter 1 of The Practitioner’s Guide to Data Science, data scientists are described as having three main skill tracks being engineering, modeling, and modeling/inference. Engineering involves designing the infrastructure for the data to be housed, maintained, and processed. Analysis delves into exploring and conveying information about that data visually, given its context. Finally, modeling and inference, which essentially involve further analyzing the data to find trends, make predictions, etc. In the article Data Science vs Machine Learning vs Data Analytics we see a similar definition where the term data scientist seems all-encompassing, including data analysis and machine learning tools and techniques.
+
+## What differences/similarities do you see between data scientists and statisticians?
+
+There is some room for debate about the distinction between a data scientist and a statistician. Data scientists regularly practice statistics, but they are not necessarily statisticians. I think the reverse holds. In other words, the terms statistician and data scientist are not synonymous, but there is overlap between people in these fields, as they do rely on a similar knowledge base. As the ASA Statement mentioned, with advancements in technology, the lines between the two have become blurred as statisticians have had to develop more skills in line with computational science to, as they stated, remain relevant. Some other similarities include how statisticians and data scientists can both offer advice with respect to data collection and analysis when working in interdisciplinary teams. Some differences include that data scientists often deal with larger amounts of unstructured data and are more involved in their respective production systems than statisticians. This was highlighted in Chapter 2 of The Practitioner’s Guide to Data Science.  
+
+## How do you view yourself in relation to these two areas?
+
+I did my BS in mathematics and am pursuing my MR in statistics. I would say that I have a strong background in mathematics and statistics. I have taken prior coding courses such as SAS and Python, and thrived in those environments. I would say it's fairly easy for me to pick up on a new coding language. What drew me to this course was the inclusion of the term 'Data Science' in the title. I have never taken a course explicitly listed as such, and despite having some of the technical skills needed to be a data scientist have never considered myself one. I would not even go as far as saying I am a mathematician or statistician because I feel these terms ascribe a certain level of practice or mastery that I have not yet attained, hence my seeking further education. I don’t know what my future career trajectory is, but I feel the term statistician more closely aligns with me today.
+
+```{r}
+y <- density(iris$Petal.Width)
+```
+
+Class, Type, and Structure of y:
+
+```{r}
+class(y)
+typeof(y)
+str(y)
+```
+
+Plot of y:
+
+```{r}
+#| echo: false
+plot(y)
+```
+
